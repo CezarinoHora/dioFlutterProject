@@ -29,7 +29,7 @@ Este é um projeto desenvolvido durante meu aprendizado de Flutter na faculdade 
 1. Clone este repositório
 
 ```bash
-git clone [URL do seu repositório]
+git clone [https://github.com/CezarinoHora/dioFlutterProject.git]
 ```
 
 2. Entre na pasta do projeto
